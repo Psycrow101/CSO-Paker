@@ -1,4 +1,4 @@
-# CSO Voxel
+# CSO Paker
 
 A command line tool to extract files from PAK files used in the video game Counter-Strike Online.
 
@@ -32,8 +32,9 @@ Examples:
 
 ## License
 
-csovxl is licensed under the GNU GPLv3 license.
+csopaker is licensed under the GNU GPLv3 license.
 
 ## Credits
 
 - Luís Leite - https://git.sr.ht/~leite/cso-pak
+- More projects: https://github.com/L-Leite/csovxl
