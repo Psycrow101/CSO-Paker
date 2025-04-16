@@ -1,0 +1,8 @@
+# build directories
+/build*
+
+# IDE data
+/.cache
+/.vscode
+launch.json
+*.kate-swp
