@@ -36,5 +36,9 @@ csopaker is licensed under the GNU GPLv3 license.
 
 ## Credits
 
-- Luís Leite - https://git.sr.ht/~leite/cso-pak
-- More projects: https://github.com/L-Leite/csovxl
+- Luís Leite (Creator) - https://git.sr.ht/~leite/cso-pak
+
+## Similar projects
+
+- https://github.com/L-Leite/csovxl
+- https://github.com/SmilexGamer/NARTools
