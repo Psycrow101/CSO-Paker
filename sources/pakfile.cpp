@@ -211,7 +211,7 @@ bool PakFile::ParseEntries()
     if (entry.Type & PAK_TYPE_ENCRYPTED)
     {
         const auto maxTopBytes = std::min<size_t>(
-            GetAlignedLength<4>(res.size()), PAK_TYPE_TOP_BYTES);
+            res.size(), PAK_TYPE_TOP_BYTES);
 
         PakView<SnowCipher, 4> view({ res.data(), maxTopBytes }, dataKey);
 
